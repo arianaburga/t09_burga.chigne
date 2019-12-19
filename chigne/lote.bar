@@ -1,0 +1,103 @@
+python funcion01.py 20 30
+python funcion01.py 10 40
+python funcion01.py 2 70
+
+python funcion02.py 10 10
+python funcion02.py 15 30
+python funcion02.py 200 5
+
+python funcion03.py 25 10
+python funcion03.py 80 5
+python funcion03.py 5 4
+
+python funcion04.py 200 2
+python funcion04.py 300 3
+python funcion04.py 500 100
+
+python funcion05.py 10 5
+python funcion05.py 200 10
+python funcion05.py 5000 50
+
+python funcion06.py 10 11 12
+python funcion06.py 12 13 14
+python funcion06.py 15 16 17
+
+python funcion07.py 100 10
+python funcion07.py 500 30
+python funcion07.py 250 25
+
+python funcion08.py 10 20 30
+python funcion08.py 50 50 10
+python funcion08.py 100 100 300
+
+python funcion09.py 15 10 45
+python funcion09.py 50 50 20
+python funcion09.py 100 100 300
+
+python funcion10.py 10 60
+python funcion10.py 50 20
+python funcion10.py 80 30
+
+python funcion11.py 6 100
+python funcion11.py 5 100
+python funcion11.py 9 100
+
+python funcion12.py 100 3
+python funcion12.py 100 4
+python funcion12.py 100 5
+
+python funcion13.py 548
+python funcion13.py 80
+python funcion13.py 276
+
+python funcion14.py 100 1
+python funcion14.py 50 3
+python funcion14.py 80 5
+
+python funcion14.py 100 1
+python funcion14.py 50 3
+python funcion14.py 80 5
+
+python funcion15.py 100 500
+python funcion15.py 200 10
+python funcion15.py 300 55
+
+python funcion16.py 8 15 2
+python funcion16.py 10 10 10
+python funcion16.py 10 9 6
+
+python funcion17.py 05 05 05 05
+python funcion17.py 10 10 10 10
+python funcion17.py 12 12 12 12
+
+python funcion18.py 3 1
+python funcion18.py 3 5
+python funcion18.py 3 6
+
+python funcion19.py 8 28 4 9
+python funcion19.py 15 30 10 2
+python funcion19.py 10 25 6 3
+
+python funcion20.py 50 50 50 50
+python funcion20.py 90 100 30 80
+python funcion20.py 100 200 300 100
+
+python funcion21.py 8 16 24 32
+python funcion21.py 15 20 30 45
+python funcion21.py 50 50 50 60
+
+python funcion22.py 50 50
+python funcion22.py 25 25
+python funcion22.py 10 10
+
+python funcion23.py 50 50
+python funcion23.py 31 5
+python funcion23.py 10 19
+
+python funcion24.py 3 10 10
+python funcion24.py 3 3 2
+python funcion24.py 3 3 3
+
+python funcion25.py 10 20 30 10
+python funcion25.py 20 30 40 10
+python funcion25.py 05 05 08 02
